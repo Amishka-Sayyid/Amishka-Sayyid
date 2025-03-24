@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Amina Ibrahim 👋
 
-<!--
-**Amishka-Sayyid/Amishka-Sayyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional with hands-on experience in full-stack web development. After completing an intensive **Software Development Bootcamp** at Tech Eductators, I have gained a strong foundation in both frontend and backend technologies. I'm passionate about building efficient and scalable web applications, and I'm excited to continue growing my skills in software development.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js, Vite, Tailwind CSS
+- **Backend**: Node.js, Express.js, RESTful APIs
+- **Database**: PostgreSQL, Supabase
+- **Version Control**: Git, GitHub
+- **Tools**: Postman, Vercel, Render
+- **Other**: Agile Methodologies, Problem Solving, Team Collaboration
+
+## 🌱 Current Focus:
+I'm actively working on developing **full-stack applications** and enhancing my skills in building **user-friendly**, **performant**, and **secure** web solutions. I enjoy learning new technologies and applying them to real-world projects.
+
+## 📫 How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/amina-ibrahim-78944623b/)
+- [Email](mailto:amina7585@gmail.com)
