@@ -1,6 +1,6 @@
 # Hi, I'm Amina Ibrahim 👋
 
-I'm an IT professional with hands-on experience in full-stack web development. After completing an intensive **Software Development Bootcamp** at Tech Eductators, I have gained a strong foundation in both frontend and backend technologies. I'm passionate about building efficient and scalable web applications, and I'm excited to continue growing my skills in software development.
+I'm a full-stack web developer with hands-on experience gained from completing an intensive **Software Development Bootcamp** at **Tech Educators**. I’m passionate about building efficient, scalable web applications and am excited to keep growing my skills in both frontend and backend technologies.
 
 ## 🚀 Skills & Technologies:
 
