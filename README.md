@@ -17,3 +17,4 @@ I'm actively working on developing **full-stack applications** and enhancing my 
 ## 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/amina-ibrahim-78944623b/)
 - [Email](mailto:amina7585@gmail.com)
+
